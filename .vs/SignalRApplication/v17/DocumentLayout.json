@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|c:\\users\\shabnamjs\\source\\repos\\signalrapplication\\signalrapplication\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|solutionrelative:signalrapplication\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|c:\\users\\shabnamjs\\source\\repos\\signalrapplication\\signalrapplication\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|solutionrelative:signalrapplication\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|c:\\users\\shabnamjs\\source\\repos\\signalrapplication\\signalrapplication\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|solutionrelative:signalrapplication\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|c:\\users\\shabnamjs\\source\\repos\\signalrapplication\\signalrapplication\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|solutionrelative:signalrapplication\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|c:\\users\\shabnamjs\\source\\repos\\signalrapplication\\signalrapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|solutionrelative:signalrapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|c:\\users\\shabnamjs\\source\\repos\\signalrapplication\\signalrapplication\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|solutionrelative:signalrapplication\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|c:\\users\\shabnamjs\\source\\repos\\signalrapplication\\signalrapplication\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B38AC3-1182-4E32-9C65-A12E9DF8EDB8}|SignalRApplication\\SignalRApplication.csproj|solutionrelative:signalrapplication\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "SignalRApplication\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "SignalRApplication\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T08:34:52.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SignalRApplication\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SignalRApplication\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:27:42.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "SignalRApplication\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "SignalRApplication\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:26:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "SignalRApplication\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Services\\BaseService.cs",
+              "RelativeToolTip": "SignalRApplication\\Services\\BaseService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:26:31.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Program.cs",
+              "RelativeToolTip": "SignalRApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:24:29.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.http",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\app.http",
+              "RelativeDocumentMoniker": "SignalRApplication\\app.http",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\app.http",
+              "RelativeToolTip": "SignalRApplication\\app.http",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-13T08:22:14.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SignalRApplication\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\SignalRApplication\\SignalRApplication\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SignalRApplication\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:18:57.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
